@@ -11,5 +11,6 @@ public class Inicio extends AppCompatActivity {
         setContentView(R.layout.activity_inicio);
 
         //Hijos de putaaaaa
+        //Es bromis
     }
 }
