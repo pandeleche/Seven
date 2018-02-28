@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".creacion_de_personaje" />
+        <activity android:name=".introduccion"></activity>
     </application>
 
 </manifest>
