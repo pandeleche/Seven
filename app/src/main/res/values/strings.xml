@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Seven</string>
+    <string name="nueva_partida">Nueva Partida</string>
+    <string name="introducir_codigo">Introducir Código</string>
+    <string name="eleccion_don">Elige tu don</string>
+    <string name="sabiduria">Sabiduría</string>
+    <string name="entendimiento">Entendimiento</string>
+    <string name="consejo">Consejo</string>
+    <string name="fortaleza">Fortaleza</string>
+    <string name="ciencia">Ciencia</string>
+    <string name="piedad">Piedad</string>
+    <string name="temor_de_dios">Temor de Dios</string>
 </resources>

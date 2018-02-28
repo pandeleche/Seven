@@ -18,6 +18,10 @@
         </activity>
         <activity android:name=".creacion_de_personaje" />
         <activity android:name=".introduccion"></activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
