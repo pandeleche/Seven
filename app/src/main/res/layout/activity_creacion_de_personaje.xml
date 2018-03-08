@@ -7,7 +7,7 @@
     tools:context="com.example.curro.seven.creacion_de_personaje">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/eleccion_don_cabecera"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -15,9 +15,78 @@
         android:layout_marginTop="16dp"
         android:fontFamily="@font/aladin"
         android:text="@string/eleccion_don"
+        android:textColor="@color/brownFont"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/don_actual"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/aladin"
+        android:text="@string/sabiduria"
+        android:textColor="@color/brownFont"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="@+id/don_anterior"
+        app:layout_constraintEnd_toStartOf="@+id/siguiente_don"
+        app:layout_constraintStart_toEndOf="@+id/don_anterior"
+        app:layout_constraintTop_toTopOf="@+id/don_anterior" />
+
+    <ImageButton
+        android:id="@+id/siguiente_don"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eleccion_don_cabecera"
+        app:srcCompat="@android:drawable/btn_plus" />
+
+    <ImageButton
+        android:id="@+id/don_anterior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/eleccion_don_cabecera"
+        app:srcCompat="@android:drawable/btn_minus" />
+
+    <TextView
+        android:id="@+id/descripcion_don"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:fontFamily="@font/aladin"
+        android:text="@string/sabiduria_descripcion"
+        android:textColor="@color/brownFont"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/confirmar_don"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/don_actual" />
+
+    <Button
+        android:id="@+id/confirmar_don"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/brownBackground"
+        android:fontFamily="@font/aladin"
+        android:text="@string/continuar"
+        android:textColor="@color/yellowFont"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </android.support.constraint.ConstraintLayout>

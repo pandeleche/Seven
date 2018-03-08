@@ -10,4 +10,12 @@
     <string name="ciencia">Ciencia</string>
     <string name="piedad">Piedad</string>
     <string name="temor_de_dios">Temor de Dios</string>
+    <string name="sabiduria_descripcion">El don de la sabiduría es el don otorgado por Dios</string>
+    <string name="entendimiento_descripcion">Entendimiento</string>
+    <string name="consejo_descripcion">Consejo</string>
+    <string name="fortaleza_descripcion">Fortaleza</string>
+    <string name="ciencia_descripcion">Ciencia</string>
+    <string name="piedad_descripcion">Piedad</string>
+    <string name="temor_de_dios_descripcion">Temor de Dios</string>
+    <string name="continuar">Continuar</string>
 </resources>
