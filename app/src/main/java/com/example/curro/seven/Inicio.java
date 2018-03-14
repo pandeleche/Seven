@@ -23,6 +23,13 @@ public class Inicio extends AppCompatActivity {
                 startActivity(i);
             }
         });
+        introducir_codigo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent j = new Intent(getApplicationContext(), introducir_codigo.class);
+                startActivity(j);
+            }
+        });
     }
 
 }

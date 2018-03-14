@@ -18,4 +18,59 @@
     <string name="piedad_descripcion">Piedad</string>
     <string name="temor_de_dios_descripcion">Temor de Dios</string>
     <string name="continuar">Continuar</string>
+    <string name="mision_terminada">Mision Terminada</string>
+
+
+
+    <!-- textos de cada encuentro -->
+    <string name="intro_orgullo">escribir aqui</string>
+    <string name="intro_envidia">escribir aqui</string>
+    <string name="intro_pereza">escribir aqui</string>
+    <string name="intro_gula">escribir aqui</string>
+    <string name="intro_lujuria">escribir aqui</string>
+    <string name="intro_ira">escribir aqui</string>
+    <string name="intro_avaricia">escribir aqui</string>
+
+
+    <!-- Códigos -->
+    <string name="codigo_orgullo">N4RC1S0</string>
+    <string name="codigo_envidia">3NV1FU</string>
+    <string name="codigo_pereza">ZL33P</string>
+    <string name="codigo_gula">C4NT0P</string>
+    <string name="codigo_lujuria">Whatever</string>
+    <string name="codigo_ira">escribir aqui</string>
+    <string name="codigo_avaricia">escribir aqui</string>
+
+
+
+    <!-- Opciones de cada encuentro-->
+    <string name="primera_opcion_orgullo">mira como vuelo</string>
+    <string name="segunda_opcion_orgullo">mira como bailo</string>
+    <string name="tercera_opcion_orgullo">mira mi ojete</string>
+
+    <string name="primera_opcion_ira">mira como vuelo</string>
+    <string name="segunda_opcion_ira">mira como bailo</string>
+    <string name="tercera_opcion_ira">mira mi ojete</string>
+
+    <string name="primera_opcion_avaricia">mira como vuelo</string>
+    <string name="segunda_opcion_avaricia">mira como bailo</string>
+    <string name="tercera_opcion_avaricia">mira mi ojete</string>
+
+    <string name="primera_opcion_pereza">mira como vuelo</string>
+    <string name="segunda_opcion_pereza">mira como bailo</string>
+    <string name="tercera_opcion_pereza">mira mi ojete</string>
+
+    <string name="primera_opcion_lujuria">mira como vuelo</string>
+    <string name="segunda_opcion_lujuria">mira como bailo</string>
+    <string name="tercera_opcion_lujuria">mira mi ojete</string>
+
+    <string name="primera_opcion_gula">mira como vuelo</string>
+    <string name="segunda_opcion_gula">mira como bailo</string>
+    <string name="tercera_opcion_gula">mira mi ojete</string>
+
+    <string name="primera_opcion_envidia">mira como vuelo</string>
+    <string name="segunda_opcion_envidia">mira como bailo</string>
+    <string name="tercera_opcion_envidia">mira mi ojete</string>
+
+
 </resources>

@@ -17,11 +17,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".creacion_de_personaje" />
-        <activity android:name=".introduccion"></activity>
+        <activity android:name=".introduccion" />
 
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".Orgullo" />
+        <activity android:name=".introducir_codigo"></activity>
     </application>
 
 </manifest>
