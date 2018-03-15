@@ -21,15 +21,32 @@
     <string name="mision_terminada">Mision Terminada</string>
 
 
-
     <!-- textos de cada encuentro -->
+    <string name="titulo_orgullo">escribir aqui</string>
+    <string name="titulo_envidia">escribir aqui</string>
+    <string name="titulo_pereza">escribir aqui</string>
+    <string name="titulo_gula">escribir aqui</string>
+    <string name="titulo_lujuria">El hombre y la boda</string>
+    <string name="titulo_ira">escribir aqui</string>
+    <string name="titulo_avaricia">escribir aqui</string>
+
     <string name="intro_orgullo">escribir aqui</string>
     <string name="intro_envidia">escribir aqui</string>
     <string name="intro_pereza">escribir aqui</string>
     <string name="intro_gula">escribir aqui</string>
-    <string name="intro_lujuria">escribir aqui</string>
+    <string name="intro_lujuria">Carta: “Necesito ayuda, me voy a casar con una mujer, nos amamos mutuamente y estamos muy enamorados. Más temo por mi vida, siete bodas ha tenido y los siete maridos han muerto entre la boda y la noche en la cual se consuma el matrimonio. Recompensaré con lo que pueda al que solucione mi problema, soy pobre, pero soy honrado y haré lo que pueda”
+    Guardián: “Antes de dejar el pueblo llevaba observando este caso desde hace tiempo. La mujer es presa de Asmodan, el demonio de la lujuria. Se ha enamorado de ella y mata a todos los maridos porque la quiere solo para él, si no la liberamos del demonio, este hombre morirá en la noche de bodas. Para deshacerse de Asmodan solo te puedo decir 6 ,Saibot ”</string>
     <string name="intro_ira">escribir aqui</string>
-    <string name="intro_avaricia">escribir aqui</string>
+    <string name="intro_avaricia">Mendigo: “¿Me podría dar usted una limosna por caridad? No voy a mentirle, tengo que conseguir dinero para una buena causa, se lo prometo, quiero ayudar a gente pero en mi estado actual no puedo, ayuda a un buen hombre por favor.”
+	Guardian: “Conozco a este mendigo, antes de abandonar el pueblo era el más rico y no quería dar dinero a nadie, racaneaba todo lo que podía cuando tenía que hacer pagos. Quería las riquezas para él solo, tanto es así que llegó a montar fiestas donde no invitó a nadie para que según él “nadie malgastara sus riquezas”. Es muy raro que esté mendigando, el juego, la bebida, quien sabe”</string>
+
+    <string name="pista_orgullo">escribir aqui</string>
+    <string name="pista_envidia">escribir aqui</string>
+    <string name="pista_pereza">escribir aqui</string>
+    <string name="pista_gula">escribir aqui</string>
+    <string name="pista_lujuria">Lee al revés la pista, seguramente necesites una biblia.</string>
+    <string name="pista_ira">escribir aqui</string>
+    <string name="pista_avaricia">Dale dinero, es por una buena causa</string>
 
 
     <!-- Códigos -->
@@ -60,9 +77,9 @@
     <string name="segunda_opcion_pereza">mira como bailo</string>
     <string name="tercera_opcion_pereza">mira mi ojete</string>
 
-    <string name="primera_opcion_lujuria">mira como vuelo</string>
-    <string name="segunda_opcion_lujuria">mira como bailo</string>
-    <string name="tercera_opcion_lujuria">mira mi ojete</string>
+    <string name="primera_opcion_lujuria">No voy a ayudarle</string>
+    <string name="segunda_opcion_lujuria">La solución es sacarle las entrañas a un pez y quemarlas</string>
+    <string name="tercera_opcion_lujuria">La solución es preparar un baño con cebolla, bendecirlo y que se bañe</string>
 
     <string name="primera_opcion_gula">mira como vuelo</string>
     <string name="segunda_opcion_gula">mira como bailo</string>
