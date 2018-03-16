@@ -49,7 +49,7 @@ Seguidamente el granjero sacó un papel y escribió “La dama es la asesina”.
     <string name="intro_pereza">escribir aqui</string>
 
     <string name="pista_orgullo">escribir aqui</string>
-    <string name="pista_envidia">Dale dinero, es por una buena causa</string>
+    <string name="pista_envidia">La envidia es un pecado</string>
     <string name="pista_pereza">escribir aqui</string>
     <string name="pista_gula">Cuidado con la flor doble amarilla y los pétalos de la azul</string>
     <string name="pista_lujuria">Lee al revés la pista, seguramente necesites una biblia.</string>
@@ -63,8 +63,8 @@ Seguidamente el granjero sacó un papel y escribió “La dama es la asesina”.
     <string name="codigo_pereza">ZL33P</string>
     <string name="codigo_gula">C4NT0P</string>
     <string name="codigo_lujuria">Whatever</string>
-    <string name="codigo_ira">escribir aqui</string>
-    <string name="codigo_avaricia">escribir aqui</string>
+    <string name="codigo_ira">1R4S</string>
+    <string name="codigo_avaricia">4F13ST4</string>
 
 
 
