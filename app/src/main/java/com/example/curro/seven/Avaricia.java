@@ -16,9 +16,6 @@ public class Avaricia extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.texto_sin_mision);
-        primera_opcion = findViewById(R.id.primera_opcion);
-        segunda_opcion = findViewById(R.id.segunda_opcion);
-        tercera_opcion = findViewById(R.id.tercera_opcion);
-        texto = findViewById(R.id.texto_mision);
+
     }
 }

@@ -21,8 +21,10 @@ public class Orgullo extends AppCompatActivity {
         tercera_opcion = findViewById(R.id.tercera_opcion);
         texto = findViewById(R.id.texto_mision);
         primera_opcion.setText(R.string.primera_opcion_orgullo);
-        primera_opcion.setText(R.string.segunda_opcion_orgullo);
-        primera_opcion.setText(R.string.tercera_opcion_orgullo);
+        segunda_opcion.setText(R.string.segunda_opcion_orgullo);
+         tercera_opcion.setText(R.string.tercera_opcion_orgullo);
+       //primera_opcion.setText(R.string.segunda_opcion_orgullo);
+       // primera_opcion.setText(R.string.tercera_opcion_orgullo);
         texto.setText(R.string.intro_orgullo);
     }
 }
