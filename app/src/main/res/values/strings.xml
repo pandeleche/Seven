@@ -23,29 +23,37 @@
 
     <!-- textos de cada encuentro -->
     <string name="titulo_orgullo">escribir aqui</string>
-    <string name="titulo_envidia">escribir aqui</string>
+    <string name="titulo_envidia">El hombre más rico del lugar</string>
     <string name="titulo_pereza">escribir aqui</string>
-    <string name="titulo_gula">escribir aqui</string>
+    <string name="titulo_gula">Las moscas</string>
     <string name="titulo_lujuria">El hombre y la boda</string>
-    <string name="titulo_ira">escribir aqui</string>
-    <string name="titulo_avaricia">escribir aqui</string>
+    <string name="titulo_ira">El asesinato</string>
+    <string name="titulo_avaricia">El mendigo</string>
 
     <string name="intro_orgullo">escribir aqui</string>
-    <string name="intro_envidia">escribir aqui</string>
-    <string name="intro_pereza">escribir aqui</string>
-    <string name="intro_gula">escribir aqui</string>
+    <string name="intro_envidia">Entramos en una casa donde estaba la persona más rica de la ciudad, simplemente quería saludarnos y hablar con nosotros, seguramente quiera algo a si que tendré que ir con cuidado, esta gente nunca se sabe.
+    “Muy buenas, ¿quieres alguna bebida, algo de comer? La verdad es que he conseguido todo esto con trabajo y dedicación, he conseguido amasar una buena fortuna” la verdad es que era una de las casas más ricas que había visto en mucho tiempo. “Hace poco conseguí ser el más rico de todos, antes era el segundo pero el muy canalla decidió un día arruinarse, tal vez con juegos, con la bebida ya sabes, cuanto más dinero tienes más acceso a formas de gastarlo.” Mantuvimos una conversación más o menos superficial hasta que dijo “he de irme a revisar unos asuntos vuelvo enseguida”. Me vi solo en la habitación, ojeando un poco descubrí tres cofres lleno de monedas hasta arriba. La verdad es que un par de monedas no me vendría nada mal.
+    Guardián: Esfuerzo y dedicación, tiene toda la razón, pero no utilizó el esfuerzo para cosas buenas, más bien se dedicó a timar, robar y traficar con todo lo que podía, esta fortuna no ha sido muy justa que digamos</string>
+    <string name="intro_gula">La casa tenía un hedor que recordaba a medio podrido, estaba completamente llena de comida, unas uvas medio mordidas colgaban de la mesa, pollo empezado, salsas, fruta, vino, chorizos, pan,... todo repartido por la casa, parece como si la decoración fuera la comida. Las moscas revoloteaban algunos de los platos. Esto es muy raro, es la primera vez que veo moscas en este pueblo.
+	“Gracias por venir, necesito tu ayuda buen señor” me giré para ver quién me hablaba, una guapa muchacha con un libro debajo del brazo medio apoyada en el marco de un a puerta. “Algo le pasa a mi madre, le dan antojos de comida, empieza a comerla y se las deja a mitad. No quiere que tiremos la comida ni espantamos las moscas, la última vez que lo intente …” Vi que instintivamente se tocaba una pierna, “sígame por favor”. Entramos en otra habitación donde el hedor era más fuerte, una señora muy gorda estaba tumbada en la cama, mordisqueando lo que presumiblemente era un hueso. Una gran masa de moscas rodeaba la cara. Me lanzó una mirada inhumana.
+	Guardián: que raro, antes de abandonar el pueblo esta señora era completamente normal, desde luego ha ganado unos kilos. Lo que menos me gusta son las moscas. Necesito que averigües cuál es la causa, si es por Baal tendremos que hacer un exorcismo, si es por una maldición unas pócimas valdrán, pero si se está transformando en un monstruo tendremos que matarla.</string>
     <string name="intro_lujuria">Carta: “Necesito ayuda, me voy a casar con una mujer, nos amamos mutuamente y estamos muy enamorados. Más temo por mi vida, siete bodas ha tenido y los siete maridos han muerto entre la boda y la noche en la cual se consuma el matrimonio. Recompensaré con lo que pueda al que solucione mi problema, soy pobre, pero soy honrado y haré lo que pueda”
     Guardián: “Antes de dejar el pueblo llevaba observando este caso desde hace tiempo. La mujer es presa de Asmodan, el demonio de la lujuria. Se ha enamorado de ella y mata a todos los maridos porque la quiere solo para él, si no la liberamos del demonio, este hombre morirá en la noche de bodas. Para deshacerse de Asmodan solo te puedo decir 6 ,Saibot ”</string>
-    <string name="intro_ira">escribir aqui</string>
-    <string name="intro_avaricia">Mendigo: “¿Me podría dar usted una limosna por caridad? No voy a mentirle, tengo que conseguir dinero para una buena causa, se lo prometo, quiero ayudar a gente pero en mi estado actual no puedo, ayuda a un buen hombre por favor.”
+    <string name="intro_ira">Entré en la taberna para poder tomar algo, imaginaos mi sorpresa cuando al entrar vi un cuerpo tendido en el suelo sangrando, me acerqué, vi que la herida había sido muy reciente, por lo tanto el asesino estaba dentro del bar. Solo había tres personas, el camarero, una dama y un granjero. Siempre que les hacía preguntas me respondian “da” o “ja”.
+	Guardián: estos tres individuos no están compinchados, pero una extraña maldición les afecta, uno siempre miente, el otro siempre dice la verdad y el último responde de forma aleatoria. Lo más extraño es que responden solo con “da” y “ja” que para ellos son sí o no, pero nadie sabe si da es sí o no.
+
+	Me acerque al camarero y le pregunté: “Si yo te preguntara que la Dama es la que responde de forma Aleatoria, ¿Responderías ‘ja’?” a lo que me respondio ‘ja’. Por lo tanto me dirigí al granjero y le pregunté “Si yo te preguntara si eres quien dice la Verdad, ¿responderías ‘ja’?” y el contesto “ja” y le volví a preguntar “Si te pregunto si el Camarero es el que responde de forma Aleatoria, ¿tu respuesta sería 'ja'?” a lo que me volvió a responder ‘ja’.
+Seguidamente el granjero sacó un papel y escribió “La dama es la asesina”. Me dirigí a la dama y me escribió en un papel “El asesino es el granjero”, por ultimo fui al camarero que me escribió “El asesino es el granjero”.</string>
+    <string name="intro_avaricia"> Mendigo: “¿Me podría dar usted una limosna por caridad? No voy a mentirle, tengo que conseguir dinero para una buena causa, se lo prometo, quiero ayudar a gente pero en mi estado actual no puedo, ayuda a un buen hombre por favor.”
 	Guardian: “Conozco a este mendigo, antes de abandonar el pueblo era el más rico y no quería dar dinero a nadie, racaneaba todo lo que podía cuando tenía que hacer pagos. Quería las riquezas para él solo, tanto es así que llegó a montar fiestas donde no invitó a nadie para que según él “nadie malgastara sus riquezas”. Es muy raro que esté mendigando, el juego, la bebida, quien sabe”</string>
+    <string name="intro_pereza">escribir aqui</string>
 
     <string name="pista_orgullo">escribir aqui</string>
-    <string name="pista_envidia">escribir aqui</string>
+    <string name="pista_envidia">Dale dinero, es por una buena causa</string>
     <string name="pista_pereza">escribir aqui</string>
-    <string name="pista_gula">escribir aqui</string>
+    <string name="pista_gula">Cuidado con la flor doble amarilla y los pétalos de la azul</string>
     <string name="pista_lujuria">Lee al revés la pista, seguramente necesites una biblia.</string>
-    <string name="pista_ira">escribir aqui</string>
+    <string name="pista_ira">La dama miente siempre</string>
     <string name="pista_avaricia">Dale dinero, es por una buena causa</string>
 
 
@@ -65,13 +73,13 @@
     <string name="segunda_opcion_orgullo">mira como bailo</string>
     <string name="tercera_opcion_orgullo">mira mi ojete</string>
 
-    <string name="primera_opcion_ira">mira como vuelo</string>
-    <string name="segunda_opcion_ira">mira como bailo</string>
-    <string name="tercera_opcion_ira">mira mi ojete</string>
+    <string name="primera_opcion_ira">Camarero</string>
+    <string name="segunda_opcion_ira">Dama</string>
+    <string name="tercera_opcion_ira">Granjero</string>
 
-    <string name="primera_opcion_avaricia">mira como vuelo</string>
-    <string name="segunda_opcion_avaricia">mira como bailo</string>
-    <string name="tercera_opcion_avaricia">mira mi ojete</string>
+    <string name="primera_opcion_avaricia">Hago como si no le veo y no le doy nada</string>
+    <string name="segunda_opcion_avaricia">“Conozco tu pasado, sé consecuente, fuiste avaro y verás lo que se siente cuando te tratan así”</string>
+    <string name="tercera_opcion_avaricia">Le doy 50 yenes</string>
 
     <string name="primera_opcion_pereza">mira como vuelo</string>
     <string name="segunda_opcion_pereza">mira como bailo</string>
@@ -81,13 +89,13 @@
     <string name="segunda_opcion_lujuria">La solución es sacarle las entrañas a un pez y quemarlas</string>
     <string name="tercera_opcion_lujuria">La solución es preparar un baño con cebolla, bendecirlo y que se bañe</string>
 
-    <string name="primera_opcion_gula">mira como vuelo</string>
-    <string name="segunda_opcion_gula">mira como bailo</string>
-    <string name="tercera_opcion_gula">mira mi ojete</string>
+    <string name="primera_opcion_gula">Ha sido Baal</string>
+    <string name="segunda_opcion_gula">Está maldita</string>
+    <string name="tercera_opcion_gula">Es un monstruo</string>
 
-    <string name="primera_opcion_envidia">mira como vuelo</string>
-    <string name="segunda_opcion_envidia">mira como bailo</string>
-    <string name="tercera_opcion_envidia">mira mi ojete</string>
+    <string name="primera_opcion_envidia">No hacer nada</string>
+    <string name="segunda_opcion_envidia">Quitarle 10 monedas</string>
+    <string name="tercera_opcion_envidia">Quitarle 100 monedas</string>
 
 
 </resources>
