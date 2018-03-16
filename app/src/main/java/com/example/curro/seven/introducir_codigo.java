@@ -21,18 +21,6 @@ public class introducir_codigo extends AppCompatActivity {
         codigo_introducido = findViewById(R.id.codigo);
 
 
-
-      /* confirmar_codigo.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                // SharedPreferences.Editor editor = sharedpreferences.edit();
-                //editor.putString("Don",don_actual.getText().toString());
-                //editor.commit();
-
-                Intent i = new Intent(getApplicationContext(), Inicio.class);
-                startActivity(i);
-            }
-        });*/
         confirmar_codigo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
