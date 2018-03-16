@@ -81,7 +81,7 @@ public class creacion_de_personaje extends AppCompatActivity {
                 editor.putString("Don",don_actual.getText().toString());
                 editor.commit();
 
-                Intent i = new Intent(getApplicationContext(), Pereza.class);
+                Intent i = new Intent(getApplicationContext(), introducir_codigo.class);
                 startActivity(i);
             }
         });
