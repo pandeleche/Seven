@@ -71,12 +71,13 @@ public class creacion_de_personaje extends AppCompatActivity {
                 }
                 don_actual.setText(dones[counter_don]);
                 descripcion_actual.setText(descripciones[counter_don]);
+
             }
         });
         confirmar_don.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences.Editor editor = sharedpreferences.edit();
+               SharedPreferences.Editor editor = sharedpreferences.edit();
                 editor.putString("Don",don_actual.getText().toString());
                 editor.commit();
 
