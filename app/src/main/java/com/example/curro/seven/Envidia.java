@@ -20,5 +20,9 @@ public class Envidia extends AppCompatActivity {
         segunda_opcion = findViewById(R.id.segunda_opcion);
         tercera_opcion = findViewById(R.id.tercera_opcion);
         texto = findViewById(R.id.texto_mision);
+        primera_opcion.setText(R.string.primera_opcion_envidia);
+        segunda_opcion.setText(R.string.segunda_opcion_envidia);
+        tercera_opcion.setText(R.string.tercera_opcion_envidia);
+        texto.setText(R.string.intro_envidia);
     }
 }

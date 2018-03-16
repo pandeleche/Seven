@@ -20,5 +20,9 @@ public class Pereza extends AppCompatActivity {
         segunda_opcion = findViewById(R.id.segunda_opcion);
         tercera_opcion = findViewById(R.id.tercera_opcion);
         texto = findViewById(R.id.texto_mision);
+        primera_opcion.setText(R.string.primera_opcion_pereza);
+        segunda_opcion.setText(R.string.segunda_opcion_pereza);
+        tercera_opcion.setText(R.string.tercera_opcion_pereza);
+        texto.setText(R.string.intro_pereza);
     }
 }

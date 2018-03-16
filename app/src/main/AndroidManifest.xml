@@ -24,6 +24,12 @@
             android:resource="@array/preloaded_fonts" />
 
         <activity android:name=".Orgullo" />
+        <activity android:name=".Pereza" />
+        <activity android:name=".Lujuria" />
+        <activity android:name=".Envidia" />
+        <activity android:name=".Gula" />
+        <activity android:name=".Ira" />
+        <activity android:name=".Avaricia" />
         <activity android:name=".introducir_codigo"></activity>
     </application>
 
