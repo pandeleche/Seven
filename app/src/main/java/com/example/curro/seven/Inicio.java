@@ -19,7 +19,7 @@ public class Inicio extends AppCompatActivity {
         nueva_partida.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), introduccion.class);
+                Intent i = new Intent(getApplicationContext(), creacion_de_personaje.class);
                 startActivity(i);
             }
         });

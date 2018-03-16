@@ -25,18 +25,12 @@
         android:id="@+id/don_actual"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
         android:fontFamily="@font/aladin"
         android:text="@string/sabiduria"
         android:textColor="@color/brownFont"
         android:textSize="24sp"
-        app:layout_constraintBottom_toBottomOf="@+id/don_anterior"
-        app:layout_constraintEnd_toStartOf="@+id/siguiente_don"
-        app:layout_constraintStart_toEndOf="@+id/don_anterior"
-        app:layout_constraintTop_toTopOf="@+id/don_anterior" />
+        tools:layout_editor_absoluteX="153dp"
+        tools:layout_editor_absoluteY="89dp" />
 
     <ImageButton
         android:id="@+id/siguiente_don"
